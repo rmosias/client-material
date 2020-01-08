@@ -868,14 +868,22 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bit/team-material.material.badges@^1.0.4":
-  version "1.0.4"
-  resolved "https://node.bit.dev/team-material.material.badges/-/team-material.material.badges-1.0.4.tgz#e7229d195655ad38b566ee860b631a45066b920a"
-  integrity sha1-5yKdGVZVrTi1Zu6GC2MaRQZrkgo=
+"@bit/team-material.material.badges@^1.2.0":
+  version "1.2.0"
+  resolved "https://node.bit.dev/team-material.material.badges/-/team-material.material.badges-1.2.0.tgz#69585537d5e4691d3f70f338345a4140fb61cad6"
+  integrity sha1-aVhVN9XkaR0/cPM4NFpBQPthytY=
   dependencies:
+    "@bit/team-material.material.theme" "1.2.0"
     "@material-ui/core" "4.8.0"
     "@material-ui/icons" "4.5.1"
     clsx "1.0.4"
+
+"@bit/team-material.material.theme@1.2.0":
+  version "1.2.0"
+  resolved "https://node.bit.dev/team-material.material.theme/-/team-material.material.theme-1.2.0.tgz#a83647f6f12d0b6569384b987286a7a058563af9"
+  integrity sha1-qDZH9vEtC2VpOEuYcoanoFhWOvk=
+  dependencies:
+    "@material-ui/core" "4.8.0"
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
