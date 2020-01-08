@@ -868,10 +868,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bit/team-material.material.badges@^1.0.3":
-  version "1.0.3"
-  resolved "https://node.bit.dev/team-material.material.badges/-/team-material.material.badges-1.0.3.tgz#cc0103abb2458e8a8fa8b16cc21b19bf40ac3cd5"
-  integrity sha1-zAEDq7JFjoqPqLFswhsZv0CsPNU=
+"@bit/team-material.material.badges@^1.0.4":
+  version "1.0.4"
+  resolved "https://node.bit.dev/team-material.material.badges/-/team-material.material.badges-1.0.4.tgz#e7229d195655ad38b566ee860b631a45066b920a"
+  integrity sha1-5yKdGVZVrTi1Zu6GC2MaRQZrkgo=
   dependencies:
     "@material-ui/core" "4.8.0"
     "@material-ui/icons" "4.5.1"
